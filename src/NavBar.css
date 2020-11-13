@@ -1,0 +1,46 @@
+
+
+.navbar{
+    background-color: black;
+   
+    
+    
+}
+
+.navbar ul{
+    overflow: auto;
+    margin-top: 0;  
+}   
+
+.line1{
+    float:left;
+    list-style: none; 
+    margin: 13px 15px;
+    padding: 3px 3px;
+            text-decoration: none;
+            color: white
+}
+
+.line2{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+    padding: 3px 3px;
+            text-decoration: none;
+            color: white
+    
+}
+
+.line3{
+   
+    float: right;;
+    list-style: none; 
+    margin: 13px 20px;
+    padding: 3px 3px;
+     text-decoration: none;
+    color: white
+}
+
+Link :hover {
+    background-color: rgb(41, 2, 56);
+  }

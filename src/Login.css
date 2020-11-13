@@ -1,0 +1,41 @@
+
+ .background-col{
+    background-color: blue;
+    border: black 5px solid;
+    height: 800px;
+    
+   
+   
+} 
+.viveka{
+    align-content: center;
+    color: blanchedalmond;
+    margin-top: 250px;
+}
+
+.grid-content{
+    margin-top: 250px;
+}
+.background-col1{
+    display: inline-block;
+    padding: 20px;
+    width: 300px;
+}
+
+.background-col2{
+    display: inline-block;
+    padding: 20px;
+    width: 300px;  
+}
+
+.button{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;   
+}
+
+.button-1{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;   
+}
